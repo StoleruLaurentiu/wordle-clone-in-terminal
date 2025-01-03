@@ -51,7 +51,8 @@ def wordle():
         ok = True
     else:
         ok = False
-    
+
+ 
 if __name__ == '__main__':
     wordle()
     while ok:
